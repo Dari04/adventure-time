@@ -1,0 +1,38 @@
+@media  screen and (min-width:320px)and (max-width: 767px) {
+    .container{
+        width:100%;
+    }
+    .row{
+        width:100%;
+    }
+    .all {
+        position: relative;
+        min-height: 1px;
+        left:30px;
+    }
+     .all2 {
+        position: relative;
+        min-height: 1px;
+        left: 18px;
+    }
+    .img-responsive{
+        margin: auto;
+        width: 100%;
+        position: relative;
+        left: 25px;
+    }
+    .mt-photo{
+        margin-top: 10px;
+    }
+    
+
+}
+
+ 
+@media  screen and (min-width:768px)and (max-width:990px) {
+    .emoticons{
+        position: relative;
+        left: 60px;
+    }
+    
+}
